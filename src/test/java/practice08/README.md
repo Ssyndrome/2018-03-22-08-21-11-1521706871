@@ -19,7 +19,7 @@ Klass有一个assignLeader方法，接收一个Student实例。意为将一名�
 如果没有就继续返回旧的字符串。
 
 再写一个Teacher类继承Person类，除了id，name，age属性，也有Klass属性。也有一个introduce方法，
-introduce方法返回一个字符串形如：
+           introduce方法返回一个字符串形如：
 
 >My name is Tom. I am 21 years old. I am a Teacher. I teach Class 2.
 
